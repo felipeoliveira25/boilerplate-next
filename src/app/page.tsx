@@ -4,6 +4,6 @@ import { Main } from "@/components";
 export default function Home() {
 
   return (
-    <Main/>
+    <Main title="Main para teste" description="desc main teste"/>
   );
 }
