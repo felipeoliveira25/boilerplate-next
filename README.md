@@ -15,4 +15,4 @@ Este é um boilerplate feito em Next.js
 
 
 ### Para usar esse boilerplate como base para seu projeto:
-npx create-next-app --example
+npx create-next-app --example https://github.com/felipeoliveira25/boilerplate-next.git
